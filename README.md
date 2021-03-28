@@ -59,6 +59,6 @@ mail-bg {
 ';
 
 // Send html email
-echo xmail($to,$from,$replyto,$subject,$message,$cc_email = '');
+echo xmail($to,$from,$replyto,$subject,$message,'');
 ?>
 ```
