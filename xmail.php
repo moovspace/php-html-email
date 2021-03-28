@@ -1,4 +1,5 @@
 <?php
+/*
 $to = 'to@domain.xx';
 $from = 'from@domain.xx';
 $replyto= 'reply@domain.xx';
@@ -50,6 +51,7 @@ mail-bg {
 </body>
 </html>
 ';
+*/
 
 function xmail($to,$from,$replyto,$subject,$message,$cc_email = '') 
 {
